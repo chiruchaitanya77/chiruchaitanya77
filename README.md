@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, MongoDB, API's, Tableau, DSA, MERN**
 
-- 👨‍💻 All of my projects are available at [https://chirus-portfolio.netlify.app/](https://chirus-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://chirus-portfolio.netlify.app/)
 
 - 💬 Ask me about **AI, ML, Embedded Systems**
 
