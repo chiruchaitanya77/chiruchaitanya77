@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://www.instagram.com/chiru_rkst_7/" target="blank"><img src="https://img.shields.io/twitter/follow/chiruchaitanya?logo=twitter&style=for-the-badge" alt="chiruchaitanya77"  </p>
 
-- 🌱 I’m currently learning **React Native, MongoDB, API's, Tableau, DSA, MERN**
+- 🌱 I’m currently learning **Flutter, RAG, PowerBI, DSA**
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://chirus-portfolio.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chiruchaitanya77@gmail.com**
 
-- 📄 Know about me through [resume](https://drive.google.com/file/d/1HW2WEImYcrVc9ZLEol32wvJch4SJMGfJ/view)
+- 📄 Know about me through [resume](https://drive.google.com/file/d/1e59rmlbdSwbTa3H85J6WrVeZ8LSYSrCO/view)
 
 - ⚡ Fun fact **I'm spontaneously Funny 😁**
 
