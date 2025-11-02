@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chiru-chaitanya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiru-chaitanya/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chiru_rkst_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chiru_rkst_7/" height="30" width="40" /></a>
-<a href="https://www.threads.net/@chiru_rkst_7" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Threads-app-logo-white-png-transparent.png" alt="chiru-chaitanya" height="30" width="40" style="object-fit: contain/></a>
+<a href="https://www.threads.net/@chiru_rkst_7" target="blank"><img align="center" src="https://img.logo.dev/threads.net?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=64&retina=true&format=png&theme=dark" alt="chiru-chaitanya" height="40" width="40" style="object-fit: contain/></a>
 <a href="https://fb.com/chiru.chaitanya.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chiru.chaitanya.96/" height="30" width="40" /></a>
 </p>
 
