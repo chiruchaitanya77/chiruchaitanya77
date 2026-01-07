@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Chiru Chaitanya</h1>
 <h3 align="center">A passionate AI/ML/SDE aspirant from India</h3>
-<img align="right" alt="Coding" width="400" src='https://camo.githubusercontent.com/f1acc9fbc7413f5efbd0c775a79046d1a291042b4d0cab54f8109f0a893e6799/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ2MmhhMGIwOHM1ZWw4NnNzNDdlOHJkZmI5Ymd6MXd3Y3JheXJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif'>
+<img align="right" alt="Coding" width="400" src='https://camo.githubusercontent.com/f1acc9fbc7413f5efbd0c775a79046d1a291042b4d0cab54f8109f0a893e6799/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiruchaitanya77&label=Profile%20views&color=0e75b6&style=flat" alt="chiruchaitanya77" /> </p>
 
